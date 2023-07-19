@@ -76,13 +76,7 @@
       <el-main>
         <!-- 路由占位符 -->
         <router-view></router-view>
-        <div class="footer">
-          <p>
-            ©2022-2022 By 小白条<br /><a href="https://beian.miit.gov.cn"
-              >备案号:浙ICP备2022034182号</a
-            >
-          </p>
-        </div>
+
       </el-main>
     </el-container>
   </el-container>

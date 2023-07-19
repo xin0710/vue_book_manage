@@ -30,7 +30,7 @@
 export default {
   data() {
     return {
-      text: "图书馆公告栏,记得查收公告呀!小项目请勿恶意攻击,谢谢",
+      text: "欢迎大家━(*｀∀´*)ノ亻!",
       noticeList:[
         {
           noticeId:0,
