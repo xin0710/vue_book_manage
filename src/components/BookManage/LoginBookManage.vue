@@ -75,8 +75,8 @@ export default {
     return {
       //登录表单
       loginForm: {
-        username: "admin",
-        password: "123456",
+        username: "wxh0710",
+        password: "wxh0710",
       },
       //登录表单规则的验证对象
       loginFormRules: {

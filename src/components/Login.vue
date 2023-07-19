@@ -46,8 +46,8 @@ export default {
     return {
       //登录表单
       loginForm: {
-        username: "相思断红肠",
-        password: "123456",
+        username: "xin",
+        password: "xin",
       },
 
       //登录表单规则的验证对象
