@@ -46,8 +46,8 @@ export default {
     return {
       //登录表单
       loginForm: {
-        username: "xin",
-        password: "xin",
+        username: "别来无恙",
+        password: "123456",
       },
 
       //登录表单规则的验证对象
